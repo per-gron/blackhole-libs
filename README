@@ -1,3 +1,10 @@
+NOTE: This repository is deprecated. The package functionality of Black
+Hole replaces this. For instance, in order to install the srfi package,
+issue the command "bh install srfi". Then, to import the lists module
+of the srfi package, do (import (srfi lists))
+
+---
+
 This repository contains useful libraries for use with the blackhole
 module system. It contains some basic data structures, implementations
 of some SRFIs, a web server and client, and some utility modules.
